@@ -1,15 +1,15 @@
 # Site settings
-title: 读立写生
+title: momo
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "邹沫|成长之路"  
 baseurl: ""
 url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
+  name: " lost"
+  email: lostzoumo@gmail.com
   bio: "写就是写的报酬"
 
 # Data

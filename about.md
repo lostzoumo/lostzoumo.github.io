@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-My name is Mo Zou from Shanghai Jiaotong University. I am currently an undergraduate student in IPADS. 
+My name is Mo Zou from Shanghai JiaoTong University. I am currently an undergraduate student in IPADS. 
 
 My research interests include multi-core, distributed systems and security.
 
@@ -40,9 +40,6 @@ My research interests include multi-core, distributed systems and security.
 
 - [Phone] 18317015502
 
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
 
 
 

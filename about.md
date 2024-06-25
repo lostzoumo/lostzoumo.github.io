@@ -38,8 +38,6 @@ My research interests include multi-core, distributed systems and security.
 
 - [Mail] 603548406@qq.com
 
-- [Phone] 18317015502
-
 
 
 
